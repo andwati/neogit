@@ -4,3 +4,10 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+anyhow = "1.0.93"
+flate2 = "1.0.35"
+sha2 = "0.10.8"
+similar = "2.6.0"
+tempfile = "3.14.0"
+thiserror = "2.0.3"
+walkdir = "2.5.0"
